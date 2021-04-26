@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 1. Bem vindo ao desenvolvimento Android
 parent: Aula 1
 nav_order: 1

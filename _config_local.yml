@@ -55,4 +55,11 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-color_scheme: dark
+color_scheme: ufc
+
+defaults:
+  -
+    scope:
+      path: "aulas" # an empty string here means all files in the project
+    values:
+      layout: "default"

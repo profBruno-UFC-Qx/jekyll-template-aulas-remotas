@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 2. AndroDado
 parent: Aula 1
 nav_order: 2

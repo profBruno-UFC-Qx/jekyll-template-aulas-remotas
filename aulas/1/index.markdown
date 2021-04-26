@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Aula 1
-permalink: /aula1/
 nav_order: 1
 has_children: true
 ---
